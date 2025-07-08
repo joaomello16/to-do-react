@@ -5,7 +5,7 @@ function Todolist (){
     return(
          <header className='
     flex flex-col items-center
-    bg-amber-200 px-6 py-6 w-4/6 mx-auto mt-10 rounded border border-black'
+    bg-amber-200 p-6 w-4/6 mx-auto mt-10 rounded border border-black'
     >
       <h1 className="p-4 text-5xl">To-do-list</h1>
       <div className="flex w-full">
